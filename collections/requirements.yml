@@ -1,2 +1,2 @@
 collections:
-  - name: https://github.com/netbox-community/ansible_modules/archive/v1.0.2.tar.gz
+  - name: https://github.com/zedr-automation/ansible_modules/releases/download/1.0.2-zedr/netbox-netbox-1.0.2.tar.gz
